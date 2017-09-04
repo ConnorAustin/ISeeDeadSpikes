@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\TrailTest\Assets\TrailLineEffect.cs">
+    <Files>
+      <File FileName="..\TrailTest\Assets\Trail.cs" Line="10" Column="2" />
+      <File FileName="..\TrailTest\Assets\TrailLineEffect.cs" Line="5" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
